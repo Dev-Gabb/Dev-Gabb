@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Formado em Análise e desenvolvimento de sistemas | UNIP Sorocaba<br>🚀<br>📚 Acredito que a prática e os projetos reais são o melhor caminho para evoluir<br>🛠️ Experiência com projetos pessoais e projetos Freelancer</p>
+<p align="left">👨‍💻 Formado em Análise e desenvolvimento de sistemas | UNIP Sorocaba<br><br>📚 Acredito que a prática e os projetos reais são o melhor caminho para evoluir<br>🛠️ Experiência com projetos pessoais e projetos Freelancer</p>
 
 ###
 
