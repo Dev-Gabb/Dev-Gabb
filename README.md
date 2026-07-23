@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎯Desenvolvedor Front-End Apaixonado por tecnologia , programação e inovação</p>
+<p align="left">🎯Desenvolvedor Full-Stack Apaixonado por tecnologia , programação e inovação</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Estudante de Análise e desenvolvimento de sistemas | UNIP Sorocaba<br>🚀 Atualmente aprendendo ReactJS<br>📚 Acredito que a prática e os projetos reais são o melhor caminho para evoluir<br>🛠️ Experiência com projetos pessoais e projetos Freelancer</p>
+<p align="left">👨‍💻 Formado em Análise e desenvolvimento de sistemas | UNIP Sorocaba<br>🚀<br>📚 Acredito que a prática e os projetos reais são o melhor caminho para evoluir<br>🛠️ Experiência com projetos pessoais e projetos Freelancer</p>
 
 ###
 
